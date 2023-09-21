@@ -1,0 +1,14 @@
+C:\Users\97253\Desktop\2\Testwork_1\bin\Debug\net7.0\Testwork_1.exe
+C:\Users\97253\Desktop\2\Testwork_1\bin\Debug\net7.0\Testwork_1.deps.json
+C:\Users\97253\Desktop\2\Testwork_1\bin\Debug\net7.0\Testwork_1.runtimeconfig.json
+C:\Users\97253\Desktop\2\Testwork_1\bin\Debug\net7.0\Testwork_1.dll
+C:\Users\97253\Desktop\2\Testwork_1\bin\Debug\net7.0\Testwork_1.pdb
+C:\Users\97253\Desktop\2\Testwork_1\obj\Debug\net7.0\Testwork_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97253\Desktop\2\Testwork_1\obj\Debug\net7.0\Testwork_1.AssemblyInfoInputs.cache
+C:\Users\97253\Desktop\2\Testwork_1\obj\Debug\net7.0\Testwork_1.AssemblyInfo.cs
+C:\Users\97253\Desktop\2\Testwork_1\obj\Debug\net7.0\Testwork_1.csproj.CoreCompileInputs.cache
+C:\Users\97253\Desktop\2\Testwork_1\obj\Debug\net7.0\Testwork_1.dll
+C:\Users\97253\Desktop\2\Testwork_1\obj\Debug\net7.0\refint\Testwork_1.dll
+C:\Users\97253\Desktop\2\Testwork_1\obj\Debug\net7.0\Testwork_1.pdb
+C:\Users\97253\Desktop\2\Testwork_1\obj\Debug\net7.0\Testwork_1.genruntimeconfig.cache
+C:\Users\97253\Desktop\2\Testwork_1\obj\Debug\net7.0\ref\Testwork_1.dll
